@@ -1,0 +1,44 @@
+{
+  "name": "expo-viewport",
+  "description": "Easy interaction with familiar values: vw, vh, lvh, vmin, vmax in Expo or React Native.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Lorneyq",
+    "url": "https://lorneyq.vercel.app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Lorneyq/expo-viewport.git"
+  },
+  "private": false,
+  "peerDependencies": {
+    "expo": "*",
+    "expo-constants": "*",
+    "react-native": "*"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react component",
+    "react native",
+    "expo",
+    "expo cli",
+    "expo go",
+    "viewport",
+    "values",
+    "vw",
+    "vh",
+    "vmin",
+    "vmax",
+    "css",
+    "scss",
+    "style",
+    "styles",
+    "relative",
+    "responsive",
+    "ios",
+    "android"
+  ]
+}
